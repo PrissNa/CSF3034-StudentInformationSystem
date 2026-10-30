@@ -13,6 +13,7 @@ public class StudentInformationSystem {
         System.out.println("Matric No: S87198");
         System.out.println("Java mark: " + java);
         System.out.println("Github mark: " + github);
+        System.out.println("Thank you for using Student Information System!");
         
         
         totalGrade = java + github ;
