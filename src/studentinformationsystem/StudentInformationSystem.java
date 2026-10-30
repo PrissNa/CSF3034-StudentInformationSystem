@@ -11,6 +11,9 @@ public class StudentInformationSystem {
         // TODO code application logic here
         System.out.println("Name: Priss Na a/p Uthai");
         System.out.println("Matric No: S87198");
+        System.out.println("Java mark: " + java);
+        System.out.println("Github mark: " + github);
+        
         
         totalGrade = java + github ;
         
